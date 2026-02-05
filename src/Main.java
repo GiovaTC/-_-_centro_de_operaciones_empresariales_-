@@ -6,6 +6,6 @@ public class Main {
 
         CentroOperacionView view = new CentroOperacionView();
         new CentroOperacionController(view);
-        view.setVisible(true);  
+        view.setVisible(true);
     }
 }

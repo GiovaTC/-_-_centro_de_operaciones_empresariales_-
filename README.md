@@ -5,6 +5,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/bcb2df76-4f5a-4a03-aaea-4fde1c17bd2d" />  
 
+<img width="2554" height="1079" alt="image" src="https://github.com/user-attachments/assets/d896e3ff-bb95-427c-910f-ad91fe3a16b6" /> 
+
 Solución completa, profesional y alineada a **buenas prácticas**, desarrollada en **IntelliJ IDEA**, que implementa un **CRUD** mediante un **Stored Procedure único** en **Oracle 19c**.
 
 ---
